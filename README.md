@@ -1,0 +1,2 @@
+# Heart-Disease-Data-Insights-and-Predictions-
+This project is aimed at Examining the Data trends and correlation within the data and determined which features are important to diagnose whether a person is suffering from heart disease or not. And also developed efficient Heart Disease classifier with 99% accuracy by comparing various supervised machine learning  Models like logistic Regression, KNN, SVM etc. based on their accuracy metric
